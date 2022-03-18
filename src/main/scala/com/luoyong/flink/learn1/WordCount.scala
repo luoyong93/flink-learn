@@ -13,6 +13,7 @@ object WordCount {
 //    val socketDS: DataStreamSource[String] = env.socketTextStream("hadoop103", 9999)
     //todo transform 数据转换
 //    socketDS.flatMap(_.split(" "))
+    //github 修改测试
 
 
     //todo sink
