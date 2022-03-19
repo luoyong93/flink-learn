@@ -2,9 +2,6 @@ package com.luoyong.flink.learn1
 
 import org.apache.flink.streaming.api.scala._
 
-
-
-
 object WordCount {
   def main(args: Array[String]): Unit = {
     //todo 获取环境
@@ -14,6 +11,7 @@ object WordCount {
     //todo transform 数据转换
 //    socketDS.flatMap(_.split(" "))
     //github 修改测试
+    // idea 提交测试
 
 
     //todo sink
